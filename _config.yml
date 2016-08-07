@@ -1,4 +1,3 @@
-layout_spectrum: 0.8089513287413865
 typography_spectrum: 0.4676860214676708
 color:
   brandStrength: 0.5269416547380388
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.8089513287413865
 name: Mama Knows
+title: Mama Knows
 description: Sassy T-shirts
