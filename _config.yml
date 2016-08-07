@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.8089513287413865
 name: Mama Knows
+navigation:
+  - name: Let's chat...
+    url: www.mamaknows.com
+    type: external
 title: Mama Knows
 description: Sassy T-shirts
